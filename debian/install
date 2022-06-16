@@ -1,0 +1,4 @@
+security_key/* /etc/tobii/license/
+client_side/stream_engine/include/tobii/* /usr/include/
+include/*   /usr/include/
+client_side/stream_engine/lib/tobii/* /usr/lib/
